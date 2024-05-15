@@ -35,6 +35,8 @@ I always wanted to learn coding, im kinda coding lover, and this is a huge win i
   - Exploring the ins and outs of React for dynamic front-end experiences.
   - Using and learning the secrets of Next.js for the best web experience.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
+ 
+<a href="https://app.daily.dev/unmmark"><img src="https://api.daily.dev/devcards/v2/bV6U5hXF1i5Sqp7AF5C88.png?r=u8n" width="356" alt="László Márk's Dev Card"/></a>
 
  ## 🏆 Achievements
 
